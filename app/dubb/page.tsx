@@ -34,7 +34,7 @@ const OUTPUT_LANGUAGES: Language[] = [
 //const WEBHOOK_URL = "http://64.225.108.151:5678/workflow/PZnVVOHit0FmHbPP";
 
 //const WEBHOOK_URL = "https://n8n.scalar-ai.co/webhook-test/3eb7c51a-49c4-4906-8c8b-8eccf91be2e4";
-const WEBHOOK_URL = "https://n8n.scalar-ai.co/webhook/3eb7c51a-49c4-4906-8c8b-8eccf91be2e4"
+const WEBHOOK_URL = "https://n8n.scalar-ai.co/webhook/dubb"
 
 function Container({ className, children }: { className?: string; children: React.ReactNode }) {
   return <div className={clsx("mx-auto w-full max-w-5xl px-6 md:px-10", className)}>{children}</div>;
