@@ -29,6 +29,7 @@ const OUTPUT_LANGUAGES: Language[] = [
   { id: "ar-lb", label: "Arabic — Lebanese", flag: "🇱🇧" },
   { id: "ar-eg", label: "Arabic — Egyptian", flag: "🇪🇬" },
   { id: "ar-sa", label: "Arabic — Saudi", flag: "🇸🇦" },
+  { id: "ar-sy", label: "Arabic — Syrian", flag: "🇸🇾" },
 ];
 
 //const WEBHOOK_URL = "http://64.225.108.151:5678/workflow/PZnVVOHit0FmHbPP";
